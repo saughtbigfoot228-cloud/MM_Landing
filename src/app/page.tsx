@@ -505,11 +505,11 @@ const contentExamples = [
 ];
 
 const moodboard = [
-  { src: "/images/photo_2026-03-23_22-57-03.jpg", label: "Angel Vision" },
-  { src: "/images/photo_2026-03-23_22-57-11.jpg", label: "Street Art" },
-  { src: "/images/photo_2026-03-23_22-57-16.jpg", label: "Luxury Style" },
-  { src: "/images/photo_2026-03-23_22-57-28.jpg", label: "Product" },
-  { src: "/images/photo_2026-03-23_22-57-41.jpg", label: "Renaissance" },
+  { src: "/MM_Landing/images/photo_2026-03-23_22-57-03.jpg", label: "Angel Vision" },
+  { src: "/MM_Landing/images/photo_2026-03-23_22-57-11.jpg", label: "Street Art" },
+  { src: "/MM_Landing/images/photo_2026-03-23_22-57-16.jpg", label: "Luxury Style" },
+  { src: "/MM_Landing/images/photo_2026-03-23_22-57-28.jpg", label: "Product" },
+  { src: "/MM_Landing/images/photo_2026-03-23_22-57-41.jpg", label: "Renaissance" },
 ];
 
 const mascotVariants = [
